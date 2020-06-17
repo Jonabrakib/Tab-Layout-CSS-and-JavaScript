@@ -1,5 +1,19 @@
 body{
-  padding: 150px 0px;
+  padding: 0px 0px;
+  margin: 0px 0px;
+
+}
+.hero{
+  width: 100%;
+}
+.tab{
+  height: 100vh;
+}
+.tab-btn{
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  margin-bottom: -23px;
 }
 .tab-btn button{
   cursor: pointer;
@@ -7,4 +21,8 @@ body{
   border: none;
   font-size: 36px;
   font-weight: bold;
+}
+
+.tab-btn button:focus{
+  outline: 0;
 }
