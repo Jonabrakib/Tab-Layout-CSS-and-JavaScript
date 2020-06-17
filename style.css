@@ -1,0 +1,10 @@
+body{
+  padding: 150px 0px;
+}
+.tab-btn button{
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  font-size: 36px;
+  font-weight: bold;
+}
